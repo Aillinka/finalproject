@@ -1,0 +1,17 @@
+.feed {
+    padding: 2rem;
+  }
+  
+  .newsList {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
+  .newsItem {
+    background-color: #533c3c;
+    padding: 1rem;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
